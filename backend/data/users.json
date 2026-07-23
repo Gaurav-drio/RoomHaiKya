@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin-001",
+    "name": "SmartRoooms Admin",
+    "email": "admin@roomhaikya.in",
+    "password": "$2b$10$5fuW599d9kGN52Qki3rlhOIgkj9BIweZy6nU.Ki9RuH1yjN.Tmdu6",
+    "role": "admin",
+    "phone": "+91 99999 00000",
+    "college": "",
+    "createdAt": "2026-01-01T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "18596129-c89c-4944-8181-588a5fa97737",
+    "name": "gaurav",
+    "email": "kinghacker8784@gmail.com",
+    "password": "$2b$10$tlGUziQKAKEBekV9NS39iuxGSLR4lLuHg.V8ro2Z8qj1n81e3ML72",
+    "role": "owner",
+    "phone": "6598985659",
+    "college": "St. Xavier's College",
+    "createdAt": "2026-05-31T11:48:40.310Z",
+    "status": "active",
+    "listings": [],
+    "updatedAt": "2026-05-31T12:12:39.160Z"
+  }
+]
